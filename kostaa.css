@@ -24,6 +24,7 @@
  .topnav {
   background-color: gray;
   overflow: hidden;
+	justify-content: space-around;
 
 
 }
